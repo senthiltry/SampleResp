@@ -71,5 +71,8 @@
 			<artifactId>webdrivermanager</artifactId>
 			<version>4.2.2</version>
 		</dependency>
+		<!-- <dependency>
+			Added to check the commit
+		</dependency> -->
 	</dependencies>
 </project>
