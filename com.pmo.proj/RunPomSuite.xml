@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RunJqueryFunctions" verbose="2">
+<!-- <test name="Draggable">
+<classes>
+<class name="testCases.DragTC_001"/>
+</classes>
+</test>
+<test name="Droppable">
+<classes>
+<class name="testCases.DropTC_002"/>
+</classes>
+</test>
+<test name="Resizable">
+<classes>
+<class name="testCases.ResizableTC_003"/>
+</classes>
+</test> -->
+<test name="Selectable">
+<classes>
+<class name="testCases.SelectableTC_004"/>
+</classes>
+</test>
+</suite>
