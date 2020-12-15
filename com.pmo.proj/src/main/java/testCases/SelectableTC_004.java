@@ -28,10 +28,12 @@ public class SelectableTC_004 extends SelectableAction{
 		selectablefunc(driver);
 		System.out.println("Selectable function successfully performed");
 		
+		
 	}
 	@AfterTest
 	public void exitBrwoser() {
 		driver.quit();
+		System.out.println("Driver successfully closed");
 	}
 
 }
