@@ -33,7 +33,7 @@ public class SelectableTC_004 extends SelectableAction{
 	@AfterTest
 	public void exitBrwoser() {
 		driver.quit();
-		System.out.println("Driver successfully closed");
+		System.out.println("Driver Successfully closed");
 	}
 
 }
