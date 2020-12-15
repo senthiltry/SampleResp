@@ -20,7 +20,7 @@ public class DragTC_001 extends DragAction {
 		driver=set.setBrowser(driver);
 		set.loadurl(driver);
 		System.out.println("Driver Launched successfully");
-		
+		System.out.println("Launch done...");
 		
 	}
 	@Test
