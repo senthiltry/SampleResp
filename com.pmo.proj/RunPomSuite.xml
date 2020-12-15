@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="RunJqueryFunctions" verbose="2">
-<!-- <test name="Draggable">
+<test name="Draggable">
 <classes>
 <class name="testCases.DragTC_001"/>
 </classes>
@@ -15,7 +15,7 @@
 <classes>
 <class name="testCases.ResizableTC_003"/>
 </classes>
-</test> -->
+</test>
 <test name="Selectable">
 <classes>
 <class name="testCases.SelectableTC_004"/>

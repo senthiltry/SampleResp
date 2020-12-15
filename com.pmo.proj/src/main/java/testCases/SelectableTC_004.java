@@ -26,6 +26,7 @@ public class SelectableTC_004 extends SelectableAction{
 		clickSelectableleftNav(driver);
 		enterSelectableFrame(driver);
 		selectablefunc(driver);
+		System.out.println("Selectable function successfully performed");
 		
 	}
 	@AfterTest

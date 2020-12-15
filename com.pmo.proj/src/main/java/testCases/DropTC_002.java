@@ -25,6 +25,7 @@ public class DropTC_002 extends DropAction{
 		clickDropLeftNav(driver);
 		enterDropFrame(driver);
 		dragAndDropFunc(driver);
+		System.out.println("Drop function successfully performed");
 				
 	}
 	@AfterTest

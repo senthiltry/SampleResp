@@ -25,6 +25,7 @@ public class ResizableTC_003 extends ResizableAction {
 		clickResizableLeftNav(driver);
 		enterResizableFrame(driver);
 		ResizableFunc(driver);
+		System.out.println("Resizable function successfully performed");
 		
 	}
 	@AfterTest

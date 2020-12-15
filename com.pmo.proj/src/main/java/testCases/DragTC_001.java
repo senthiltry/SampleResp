@@ -26,6 +26,7 @@ public class DragTC_001 extends DragAction {
 		clickDragleftNav(driver);
 		enterFrame(driver);
 		dragfunc(driver);
+		System.out.println("Drag function successfully performed");
 	}
 	@AfterTest
 	public void exitBrwoser() {
