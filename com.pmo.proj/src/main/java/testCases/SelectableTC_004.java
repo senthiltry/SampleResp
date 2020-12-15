@@ -20,6 +20,7 @@ public class SelectableTC_004 extends SelectableAction{
 		driver=set.setBrowser(driver);
 		set.loadurl(driver);
 		
+		
 	}
 	@Test
 	public void execDropFunc() throws InterruptedException, AWTException {
